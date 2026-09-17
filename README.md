@@ -6,7 +6,7 @@ Project Structure
 
 ├── notebooks/
 
-│   ├── 01_data_understanding.ipynb   
+ │   ├── 01_data_understanding.ipynb   
 │   ├── 02_data_cleaning.ipynb        
 │   └── 03_eda_analysis.ipynb         
 ├── powerbi/
